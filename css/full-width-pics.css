@@ -14,3 +14,15 @@ body {
   background-size: cover;
   -o-background-size: cover;
 }
+
+/* title-position text */
+.title-position {
+    font-size: 50px;
+    position: absolute;
+    top: 40%;
+    left: 75%;
+    transform: translate( -80%, -75% );
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
