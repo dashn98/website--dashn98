@@ -37,9 +37,19 @@ body {
 
 .boxed {
     position: relative;
+    height: 100%;
+    width: 100%;
+  }
+
+  .photo_box_flex {
+    display: flex;
+    flex-direction: row;
+  }
+  .photo_box_flex > div{
+    position: relative;
     height: 80%;
     width: 20%;
     left: 10%;
     padding: 1%;
-    border: 10px solid orange;
+
   }
