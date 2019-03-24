@@ -35,11 +35,24 @@ body {
 
 }
 
+.about_text{
+  
+  left: 400px;
+}
+
 .boxed {
     position: relative;
     height: 100%;
     width: 100%;
   }
+
+
+
+  .boxed_about {
+      position: relative;
+      height: 200%;
+      width: 200%;
+    }
 
   .photo_box_flex {
     display: flex;
