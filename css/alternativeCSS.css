@@ -1,0 +1,72 @@
+/*!
+ * Start Bootstrap - Full Width Pics (https://startbootstrap.com/template-overviews/full-width-pics)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+/* title-position text */
+.title-position {
+    font-size: 50px;
+    position: absolute;
+    top: 40%;
+    left: 75%;
+    transform: translate( -80%, -75% );
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.section-title{
+  position: relative;
+  height: 20%;
+  left: 10%;
+  font-size: 10%;
+
+}
+
+.about_text{
+
+  left: 400px;
+}
+
+.boxed {
+    position: relative;
+    height: 100%;
+    width: 100%;
+  }
+
+
+
+  .boxed_about {
+      position: relative;
+      height: 300%;
+      width: 300%;
+    }
+
+  .photo_box_flex {
+    display: flex;
+    flex-direction: row;
+  }
+  .photo_box_flex > div{
+    position: relative;
+    height: 100%;
+    width: 20%;
+    left: 10%;
+    padding: 1%;
+    color:black;
+  }
+  img {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
