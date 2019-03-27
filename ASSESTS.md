@@ -1,3 +1,3 @@
-Photos of my trip to Italy - I will obtain these from my Box Folder that I saved all my personal photos of the trip  
-Information about the places I visited - I will obtain this online and site my sources at the bottom of each page
-Bootstrap Template - Open Source Liscense
+Photos of my trip to Italy - obtained these from my Box Folder that I saved all my personal photos of the trip  
+Information about the places I visited - links are included in website but no information was used on my site
+Bootstrap Template - Open Source Liscense 
